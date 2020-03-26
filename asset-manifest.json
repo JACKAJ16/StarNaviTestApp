@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StarNaviTestApp/static/css/main.b9855145.chunk.css",
+    "main.js": "/StarNaviTestApp/static/js/main.47b55169.chunk.js",
+    "main.js.map": "/StarNaviTestApp/static/js/main.47b55169.chunk.js.map",
+    "runtime-main.js": "/StarNaviTestApp/static/js/runtime-main.d1e807d1.js",
+    "runtime-main.js.map": "/StarNaviTestApp/static/js/runtime-main.d1e807d1.js.map",
+    "static/js/2.83de6c89.chunk.js": "/StarNaviTestApp/static/js/2.83de6c89.chunk.js",
+    "static/js/2.83de6c89.chunk.js.map": "/StarNaviTestApp/static/js/2.83de6c89.chunk.js.map",
+    "index.html": "/StarNaviTestApp/index.html",
+    "precache-manifest.f1376c7586b6cbc9084d8caa447aa649.js": "/StarNaviTestApp/precache-manifest.f1376c7586b6cbc9084d8caa447aa649.js",
+    "service-worker.js": "/StarNaviTestApp/service-worker.js",
+    "static/css/main.b9855145.chunk.css.map": "/StarNaviTestApp/static/css/main.b9855145.chunk.css.map",
+    "static/js/2.83de6c89.chunk.js.LICENSE.txt": "/StarNaviTestApp/static/js/2.83de6c89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e807d1.js",
+    "static/js/2.83de6c89.chunk.js",
+    "static/css/main.b9855145.chunk.css",
+    "static/js/main.47b55169.chunk.js"
+  ]
+}
