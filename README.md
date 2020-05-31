@@ -8,7 +8,7 @@ This game is fetching data from API and using POST method to send data. In this 
 
 ![bandicam 2020-05-31 22-46-23-829](https://user-images.githubusercontent.com/8159055/83361358-179d6d80-a391-11ea-85f3-c3d61ce54ec8.gif)
 
-Try demo: https://jackaj16.github.io/PokemonApp/
+Try demo: https://jackaj16.github.io/TimeoutGame/
 
 ### `How to start this app on your computer`
 
