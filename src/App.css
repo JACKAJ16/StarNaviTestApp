@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  padding: 10px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.form-container {
+  padding: 50px 30px;
+  text-align: center;
+  border: 1px solid lightgrey;
+}
+
+.play {
+  width: 60px;
+  border-radius: 3px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+  
+}
+
+select {
+  padding: 8px;
+  margin-right: 10px;
+  
+  border-radius: 3px;
+}
+

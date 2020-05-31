@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+button {
+	width: 40px;
+	height: 40px;
+	background: #f9f9f9;
+	outline: none;
+}
+
+.buttons {
+	display: flex;
+	flex-wrap: wrap;
+	width: 205px;
+	margin: 20px auto 0;
+}
